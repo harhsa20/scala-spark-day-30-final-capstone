@@ -1,0 +1,11 @@
+target/
+project/target/
+project/project/
+.metals/
+.bloop/
+.idea/
+*.class
+*.log
+output/
+checkpoint/
+spark-warehouse/
